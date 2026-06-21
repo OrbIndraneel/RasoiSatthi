@@ -1,0 +1,6 @@
+{
+  "name": "RasoiSaathi",
+  "description": "AI-powered Indian kitchen assistant providing personalized recipe advice, pantry vegetable scans, hands-free cooking navigation, and regional voice search.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
